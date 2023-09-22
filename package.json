@@ -2,8 +2,8 @@
   "name": "simple-http-assignment-start-master",
   "version": "1.0.0",
   "engines": {
-    "node": "14.15.4",
-    "npm": "6.14.10"
+    "node": "20.7.0",
+    "npm": "10.1.0"
   },
   "description": "making a simple http",
   "main": "./src/server.js",
